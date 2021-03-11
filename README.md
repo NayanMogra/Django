@@ -10,13 +10,13 @@ Follow the Steps to use flask blog
 ```
 
 **Install virtual enviornment**
-#### For Windows
+*For Windows*
 ```bash
 python -m pip install --user enviroment
 python -m venv env
 python -m enviroment --help
 ```
-#### For Linux
+*For Linux*
 ```bash
 python3 -m pip install --user virtualenv
 python3 -m venv env
@@ -24,12 +24,12 @@ python -m enviroment --help
 ```
 
 **Activate the  virtual enviornment**
-####For Windows
+*For Windows*
 ```bash
 cd flaskblog\enviornment
 Scripts\activate
 ```
-####For Linux 
+*For Linux* 
 ```bash
 source env/bin/activate
 ```
@@ -39,7 +39,7 @@ source env/bin/activate
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies in blog directory
 
 ### To install all dependencies at once use 
-#### For both Windows and Linux
+*For both Windows and Linux*
 ```bash
 pip install -r requirement
 ```
