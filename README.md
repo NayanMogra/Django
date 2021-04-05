@@ -1,6 +1,6 @@
 # Django Blog
-Django Blog is a simple yet more than a basic blog website built using FLask.
-Follow the Steps to use flask blog
+Django Blog is a simple yet more than a basic blog website built using Django.
+Follow the Steps to use Django blog
 
 ****
 ## Local installation guide:
